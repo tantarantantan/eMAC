@@ -1,4 +1,4 @@
-GIT commands
+#GIT commands#--
 
 git init -- initialize git
 git add . -- put to staging
