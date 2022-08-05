@@ -1,0 +1,7 @@
+GIT commands
+
+git init -- initialize git
+git add . -- put to staging
+git commit -m  -- commit
+git remote add origin <url> -- link local to git repo
+git push -u origin master -- push staged to branch
